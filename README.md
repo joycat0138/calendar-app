@@ -9,5 +9,6 @@
 livewireを使い、非同期で表示が変わるようにしています。
 
 ## 使っている技術
-Laravel8
-doc
+* Laravel8
+* livewire
+* docker
